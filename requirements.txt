@@ -1,0 +1,21 @@
+# Core
+fiftyone>=0.23.0
+torch>=2.0
+ultralytics>=8.0.20  # For YOLOv8
+scikit-learn
+numpy
+matplotlib
+pandas
+huggingface_hub>=0.20.0
+
+# Jupyter & visualization
+notebook
+ipython
+plotly
+umap-learn
+
+# Optional for text prompts (semantic search)
+openai-clip  # If you're using it directly outside of FiftyOne's backend
+
+# Prevent common SSL issues
+certifi
