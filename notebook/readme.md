@@ -1,6 +1,8 @@
 # 🚦 FiftyOne Workshop: Mobility Edition 
 ## Pre-Workshop Preparation
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_eqFf8E4gC42y7oipX6BmNi_dJz-MfVv)
+
 Welcome to the **FiftyOne Mobility Workshop**!  
 To get the most out of the session, please follow the preparation steps below.
 
