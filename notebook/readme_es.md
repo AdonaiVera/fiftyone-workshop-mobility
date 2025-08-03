@@ -1,6 +1,8 @@
 # 🚦 Taller de FiftyOne: Edición Movilidad 
 ## Preparación Antes del Taller
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_eqFf8E4gC42y7oipX6BmNi_dJz-MfVv)
+
 ¡Bienvenido al **Taller de FiftyOne sobre Movilidad**!  
 Para aprovechar al máximo la sesión, por favor sigue los pasos de preparación a continuación.
 
